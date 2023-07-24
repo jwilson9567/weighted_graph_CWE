@@ -1,0 +1,3 @@
+to run this file, type npm run build on powershell. It must finish compiling. Then to view on the browser,
+locate the file in its folder and open it on brave. For some reason, the changes do not reflect when using
+a local port. http-server does not update changes as of this point.
